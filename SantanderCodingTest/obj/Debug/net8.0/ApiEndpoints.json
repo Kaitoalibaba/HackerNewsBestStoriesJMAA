@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SantanderCodingTest.Controllers.HackerNewsController",
+    "Method": "GetBestStoriesWithScores",
+    "RelativePath": "api/HackerNews/best",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numberOfStories",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
